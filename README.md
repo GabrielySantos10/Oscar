@@ -1,6 +1,11 @@
 # Oscar
 <h2>Introdução</h2>
 Objetivo da atividadde praticar habilidades de gerenciamento de banco de dados, incluindo consultas, inserção e modificação de dados, e outras operações.
+<br> <br>
+•  Consulta e Busca de Dados.<br>
+•  Inserção e Atualização de Dados.<br>
+•  Inclusão de Novos Dados.<br>
+•  Filtragem e Classificação de Dados.
 
 <h2>Atividades para trabalhar com o Oscar</h2>
 
