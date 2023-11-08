@@ -3,6 +3,7 @@
 Objetivo da atividadde praticar habilidades de gerenciamento de banco de dados, incluindo consultas, inserção e modificação de dados, e outras operações.
 
 <h2>Atividades para trabalhar com o Oscar</h2>
+
 1- Quantas vezes Natalie Portman foi indicada ao Oscar?
 
 2- Quantos Oscars Natalie Portman ganhou?
